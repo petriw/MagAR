@@ -1,0 +1,2 @@
+MainPackage=D:\Projects\Unity\MagAR\BUILD\UWP\MagAR\bin\x86\Master\MagAR_1.0.0.0_x86_Master.appx
+SymbolPackage=D:\Projects\Unity\MagAR\BUILD\UWP\MagAR\AppPackages\MagAR_1.0.0.0_Master_Test\MagAR_1.0.0.0_x86_Master.appxsym

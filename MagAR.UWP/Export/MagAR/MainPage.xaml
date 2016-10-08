@@ -1,0 +1,23 @@
+﻿<Page
+    x:Class="MagAR.MainPage"
+    IsTabStop="false"
+    xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+    xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+    xmlns:local="using:MagAR"
+    xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+    xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+    mc:Ignorable="d"
+    Background="#FFFFFF">
+
+    <SwapChainPanel x:Name="DXSwapChainPanel">
+        <Grid x:Name="ExtendedSplashGrid" Background="#FFFFFF">
+            <Image x:Name="ExtendedSplashImage" Source="Assets/SplashScreen.png" VerticalAlignment="Center" HorizontalAlignment="Center"/>
+        </Grid>
+        <Rectangle Fill="#FFF3C000" HorizontalAlignment="Stretch" Height="3" Stroke="#FFF3C000" VerticalAlignment="Top" Margin="360, 64, 24, 0"/>
+        <Image VerticalAlignment="Top" HorizontalAlignment="Left" Margin="24, -80, 0, 0" Width="300" Source="Assets/SunglobePatrick26x2001.png"></Image>
+        <Rectangle Fill="#FFF3C000" HorizontalAlignment="Stretch" Height="3" Stroke="#FFF3C000" VerticalAlignment="Bottom" Margin="24, 0, 24, 64"/>
+        <CommandBar VerticalAlignment="Bottom" IsOpen="True" Background="#00000000" Foreground="#FFF3C000" Margin="0,0,18,0">
+            <AppBarButton Icon="Edit" Foreground="#FFF3C000" />
+        </CommandBar>
+    </SwapChainPanel>
+</Page>

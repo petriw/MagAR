@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<QCARConfig xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="qcar_config.xsd">
+  <Tracking>
+    <ImageTarget name="YachtDevNew" size="8.500000 11.372070" />
+    <ImageTarget name="cover1" size="8.500000 11.687500" />
+  </Tracking>
+</QCARConfig>

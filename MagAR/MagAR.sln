@@ -1,0 +1,32 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2015
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MagAR.CSharp.Plugins", "MagAR.CSharp.Plugins.csproj", "{0451BF54-5168-C1EE-24DD-CF2FAD051540}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MagAR.CSharp", "MagAR.CSharp.csproj", "{BE0CA46F-AD65-F815-C5DE-D08B6371358F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MagAR.CSharp.Editor", "MagAR.CSharp.Editor.csproj", "{CA0C2C3E-AC54-D603-8B57-534B7DD2EE5B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{0451BF54-5168-C1EE-24DD-CF2FAD051540}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0451BF54-5168-C1EE-24DD-CF2FAD051540}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0451BF54-5168-C1EE-24DD-CF2FAD051540}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0451BF54-5168-C1EE-24DD-CF2FAD051540}.Release|Any CPU.Build.0 = Release|Any CPU
+		{BE0CA46F-AD65-F815-C5DE-D08B6371358F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BE0CA46F-AD65-F815-C5DE-D08B6371358F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BE0CA46F-AD65-F815-C5DE-D08B6371358F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BE0CA46F-AD65-F815-C5DE-D08B6371358F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{CA0C2C3E-AC54-D603-8B57-534B7DD2EE5B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CA0C2C3E-AC54-D603-8B57-534B7DD2EE5B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CA0C2C3E-AC54-D603-8B57-534B7DD2EE5B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CA0C2C3E-AC54-D603-8B57-534B7DD2EE5B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
